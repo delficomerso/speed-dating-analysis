@@ -1,3 +1,15 @@
+## Sobre este repositorio
+
+Este repositorio es un fork de:
+https://github.com/luzmontserrat/speed-dating-analysis
+
+Este trabajo fue realizado como parte de un trabajo académico universitario y se centra en el análisis e interpretación de datos.
+
+## Autores
+
+- Delfina Belén Comerso Salzer
+- Luz Montserrat
+- Valentina Durán
 
 # Análisis de Datos de Citas Rápidas
 
