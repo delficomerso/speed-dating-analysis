@@ -3,7 +3,9 @@
 Este repositorio es un fork de:
 https://github.com/luzmontserrat/speed-dating-analysis
 
-Este trabajo fue realizado como parte de un trabajo académico universitario y se centra en el análisis e interpretación de datos.
+Este trabajo fue realizado como parte de un trabajo académico universitario y se centra en
+el análisis e interpretación de datos, en el marco de la materia **Laboratorio de Datos**,
+durante el **Segundo Cuatrimestre de 2022**.
 
 ## Autores
 
